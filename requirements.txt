@@ -4,3 +4,4 @@ opencv-contrib-python==4.11.0.86
 opencv-python==4.11.0.86
 gradio==5.23.3
 gradio_client==1.8.0
+
